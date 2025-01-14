@@ -26,7 +26,7 @@ export default async function Home() {
   });
 
   return (
-    <>
+    <div className="pb-5">
       <Header />
       <div className="px-5 pt-6">
         <Search />
@@ -76,6 +76,6 @@ export default async function Home() {
         </div>
         <RestaurantList />
       </div>
-    </>
+    </div>
   );
 }
