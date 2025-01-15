@@ -41,7 +41,7 @@ const RestaurantItem = ({ restaurant, className }: RestaurantItemProps) => {
             <BikeIcon className="text-primary" size={14} />
             <span className="text-xs text-muted-foreground">
               {Number(restaurant.deliveryFee) === 0
-                ? "'Entrega grátis"
+                ? "Entrega grátis"
                 : formatCurrency(Number(restaurant.deliveryFee))}
             </span>
           </div>
