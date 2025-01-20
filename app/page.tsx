@@ -51,7 +51,7 @@ export default async function Home() {
             className="h-fit p-0 text-primary hover:bg-transparent hover:text-primary"
             asChild
           >
-            <Link href={"/products/recommended"}>
+            <Link href={"/products/recommended"} className="text-xs">
               Ver todos
               <ChevronRightIcon size={16} />
             </Link>
@@ -74,9 +74,12 @@ export default async function Home() {
             variant={"ghost"}
             className="h-fit p-0 text-primary hover:bg-transparent hover:text-primary"
           >
-            <Link href={"/restaurants/recommended"}>
+            <Link
+              href={"/restaurants/recommended"}
+              className="flex items-center text-xs"
+            >
               Ver todos
-              <ChevronRightIcon size={16} />
+              <ChevronRightIcon />
             </Link>
           </Button>
         </div>
