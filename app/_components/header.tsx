@@ -18,7 +18,7 @@ import {
   SheetTitle,
   SheetTrigger,
 } from "./ui/sheet";
-import { signIn, useSession } from "next-auth/react";
+import { signIn, useSession, signOut } from "next-auth/react";
 import { Avatar, AvatarFallback } from "./ui/avatar";
 import { AvatarImage } from "@radix-ui/react-avatar";
 import { Separator } from "./ui/separator";
