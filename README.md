@@ -1,3 +1,5 @@
+![fsw-barber-capa](https://github.com/Gkanawati/fsw-barber/assets/87530595/efdee25a-8553-40d4-8c74-6bdbfc180d84)
+
 <p align="center" style='margin-top: 20px;'>
   <img alt="FSW foods/>
 </p>
