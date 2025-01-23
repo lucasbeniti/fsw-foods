@@ -1,4 +1,4 @@
-![fsw-barber-capa]([https://github.com/lucasbeniti/fsw-foods/assets/Capa.png](https://github.com/lucasbeniti/fsw-foods/blob/main/assets/Capa.png))
+![fsw-barber-capa](https://github.com/lucasbeniti/fsw-foods/assets/Capa.png](https://github.com/lucasbeniti/fsw-foods/blob/main/assets/Capa.png))
 
 ## 🚀 Projeto
 
