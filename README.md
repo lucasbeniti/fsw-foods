@@ -1,9 +1,5 @@
 ![fsw-barber-capa](https://github.com/lucasbeniti/fsw-foods/assets/Capa.png)
 
-<p align="center" style='margin-top: 20px;'>
-  <img alt="FSW foods"/>
-</p>
-
 ## 🚀 Projeto
 
 Aplicação clone do iFood.
