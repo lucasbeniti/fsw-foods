@@ -2,7 +2,7 @@
 
 ## 🚀 Projeto
 
-Aplicação clone do iFood.
+Aplicação clone do iFood. (mobileonly)
 
 Projeto construído com NextJS
 
